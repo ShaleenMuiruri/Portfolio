@@ -9,25 +9,25 @@ module.exports = {
   googleAnalyticsID: 'UA-135464428-1',
   name: 'Antonio Maina',
   location: 'Nairobi, Kenya',
-  email: 'antoniomainakn@gmail.com',
+  email: 'shaleenmuiruri@gmail.com',
   github: 'https://github.com/r0b0tt',
   twitterHandle: '@__r0b0t__',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/r0b0tt',
+      url: 'https://github.com/MuiruriShaleen',
     },
     {
       name: 'LinkedIn',
-      url: 'https://www.linkedin.com/in/antoniomaina',
+      url: 'https://www.linkedin.com/in/shaleenmuiruri/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/__r0b0t__',
+      url: '',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/__r0b0t__',
+      url: '',
     },
   ],
 
@@ -54,7 +54,7 @@ module.exports = {
     },
     {
       name: 'Blog',
-      url: 'https://antonio.hashnode.dev',
+      url: 'https://medium.com/@shaleenmuiruri',
       external: true,
     },
   ],
