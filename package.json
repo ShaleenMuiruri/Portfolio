@@ -41,6 +41,7 @@
         "react-dom": "^18.2.0",
         "react-helmet": "^6.1.0",
         "react-particles": "^2.10.1",
+        "react-server-dom-webpack": "^0.0.1",
         "react-transition-group": "^4.4.5",
         "scrollreveal": "^4.0.9",
         "smooth-scroll": "^16.1.3",
