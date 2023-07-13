@@ -6,6 +6,7 @@
     "author": "Kyle Mathews <mathews.kyle@gmail.com>",
     "dependencies": {
         "@typescript-eslint/eslint-plugin": "^6.0.0",
+        "@typescript-eslint/parser": "^6.0.0",
         "@upstatement/prettier-config": "^1.1.0",
         "animejs": "^3.2.1",
         "babel-eslint": "^10.1.0",
