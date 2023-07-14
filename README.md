@@ -8,7 +8,7 @@
   The Second iteration of <a href="https://shaleenmuiruri-portfolio.vercel.app/" target="_blank">https://shaleenmuiruri-portfolio.vercel.app/</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.vercel.com/" target="_blank">Vercel</a>
 </p>
 
-![demo](https://raw.githubusercontent.com/r0b0tt/r0b0tt.github.io/master/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/r0b0tt/ShaleenMuiruri.github.io/master/src/images/demo.png)
 
 ## 🛠 Installation & Set Up
 
