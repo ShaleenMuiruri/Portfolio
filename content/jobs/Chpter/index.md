@@ -1,6 +1,6 @@
 ---
 date: '2023'
-title: 'Frontend Engineer'
+title: 'Software Engineer'
 company: 'chpter.co'
 location: 'Nairobi, Kenya'
 range: 'May 2022 - Present'
