@@ -1,21 +1,21 @@
 module.exports = {
-  siteTitle: 'Antonio Maina | Software Engineer',
+  siteTitle: 'Shaleen Muiruri | Software Engineer',
   siteDescription:
-        'Antonio Maina is a software engineer based in Nairobi, Kenya  who specializes in building and helping build digital products that make a difference',
+        'Shaleen Muiruri is a software engineer based in Nairobi, Kenya  who specializes in building and helping build digital products that make a difference',
   siteKeywords:
-        'Antonio Maina, Antonio, Maina, r0b0tt, __r0b0t__, software engineer, front-end engineer, full stack developer, web developer, nairobi, kenya',
-  siteUrl: 'https://antoniomaina.com',
+        'Shaleen Muiruri, Shaleen, Muiruri, software engineer, front-end engineer, full stack developer, web developer, frontend developer, nairobi, kenya',
+  siteUrl: 'https://shaleenmuiruri-portfolio.vercel.app/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-135464428-1',
-  name: 'Antonio Maina',
+  name: 'Shaleen Muiruri',
   location: 'Nairobi, Kenya',
   email: 'shaleenmuiruri@gmail.com',
-  github: 'https://github.com/r0b0tt',
-  twitterHandle: '@__r0b0t__',
+  github: 'https://github.com/ShaleenMuiruri',
+  twitterHandle: '',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/MuiruriShaleen',
+      url: 'https://github.com/ShaleenMuiruri',
     },
     {
       name: 'LinkedIn',

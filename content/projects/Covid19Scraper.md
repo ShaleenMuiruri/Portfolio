@@ -9,7 +9,7 @@ tech:
     - Python
     - Serverless Architecture
     - Google Cloud Platform
-showInProjects: true
+showInProjects: false
 ---
 
 This application scrapes data such as frequently asked questions relating to the Covid-19 pandemic on the web.

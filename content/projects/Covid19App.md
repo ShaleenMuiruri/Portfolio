@@ -9,7 +9,7 @@ tech:
     - Flutter
     - Bloc Pattern
     - REST APIs
-showInProjects: true
+showInProjects: false
 ---
 
 A native mobile application built using Flutter that helps in tracking data relating to the Covid-19 pandemic and also educating the public about the disease.

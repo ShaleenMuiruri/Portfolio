@@ -16,8 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Antonio Maina',
-        short_name: 'Antonio Maina',
+        name: 'Shaleen Muiruri',
+        short_name: 'Shaleen Muiruri',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

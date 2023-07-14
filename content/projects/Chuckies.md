@@ -9,7 +9,7 @@ tech:
     - React.js
     - Redux
     - Chuck Norris API
-showInProjects: true
+showInProjects: false
 ---
 
 This simple website generates quotes from the Chuck Norris API, which you can filter by category and share on twitter. It does not run on the world wide web, Chuck Norris runs it.🙃
