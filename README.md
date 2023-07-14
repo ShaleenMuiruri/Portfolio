@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/ShaleenMuiruri/ShaleenMuiruri.github.io/develop/src/images/logo.png" width="100" />
+  <img alt="Logo" src="src/images/demo.png" width="100" />
 </div>
 <h1 align="center">
   https://shaleenmuiruri-portfolio.vercel.app/
