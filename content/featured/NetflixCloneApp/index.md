@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-A Netflix Clone Software built using React, Tailwind CSS, Next.JS, Mongo DB and Prisma. The app has incorporated a Google Account and GitHub Account logins. 
+A Netflix Clone Software built using React, Tailwind CSS, Next.JS, Mongo DB and Prisma. The app has also incorporated a Google Account and GitHub Account logins. 
