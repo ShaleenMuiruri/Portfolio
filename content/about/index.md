@@ -5,6 +5,7 @@ skills:
     - JavaScript
     - HTML & CSS
     - React
+    - Angular
     - Next JS
     - Python
     - Django
@@ -18,6 +19,7 @@ skills:
     # - JavaScript (ES6+), Typescript
     # - HTML & (S)CSS
     # - React
+    # - Angular
     # - NextJS
     # - Python
     # - Django
@@ -32,10 +34,8 @@ skills:
 
 Hello! I'm Shaleen, a software engineer based in Nairobi, Kenya.
 
-I'm a self-taught developer and a graduate of [Strathmore University](https://strathmore.edu/). I specialize in designing visually appealing and responsive user interfaces using Bootstrap, CSS, and Tailwind CSS. 
+I'm a self-taught developer and a graduate of [Strathmore University](https://strathmore.edu/). I specialize in designing visually appealing and responsive user interfaces using Bootstrap, CSS, and Tailwind CSS.
 
-My passion lies in building digital products that provide amazing experiences for users while offering valuable solutions to the community.  I strive to create impactful digital solutions that seamlessly blend design and functionality. From design to development, I create scalable applications with a focus on the end user. 
-
+My passion lies in building digital products that provide amazing experiences for users while offering valuable solutions to the community. I strive to create impactful digital solutions that seamlessly blend design and functionality. From design to development, I create scalable applications with a focus on the end user.
 
 Here are a few technologies I've been working with recently:
-
