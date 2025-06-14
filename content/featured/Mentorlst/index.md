@@ -2,7 +2,7 @@
 date: '2024'
 title: 'Mentorlst (Open Source)'
 # cover: ''
-# github: 'https://github.com/ShaleenMuiruri/AIAskMyDocs',
+# github: '',
 external: 'https://mentorlst.com/'
 tech:
     - React JS

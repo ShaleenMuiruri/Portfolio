@@ -2,7 +2,7 @@
 date: '2022'
 title: 'InsightVault'
 # cover: ''
-github: 'https://github.com/ShaleenMuiruri/AIAskMyDocs'
+github: 'https://github.com/ShaleenMuiruri/InsightVault'
 external: ''
 tech:
     - React JS

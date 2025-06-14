@@ -2,7 +2,7 @@
 date: '2021'
 title: 'BudgetWise'
 # cover: './chpter.png'
-github: 'https://github.com/ShaleenMuiruri/Budget-Tracker-Redux'
+github: 'https://github.com/ShaleenMuiruri/BudgetWise'
 external: 'https://budget-tracker-redux-b9h8.vercel.app/'
 tech:
     - React JS
@@ -11,7 +11,7 @@ tech:
     - Redux
     
 showInProjects: true
----https://shaleenmuiruri-portfolio.vercel.app/
+---
 
 Personal Finance tracker that helps users manage income, expenses, and savings goals in real time.
 
