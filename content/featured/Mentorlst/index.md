@@ -1,7 +1,6 @@
 ---
-date: '2025'
+date: '2024'
 title: 'Mentorlst (Open Source)'
-index: 2
 # cover: ''
 # github: 'https://github.com/ShaleenMuiruri/AIAskMyDocs',
 external: 'https://mentorlst.com/'

@@ -1,8 +1,7 @@
 ---
-date: '2023'
+date: '2025'
 title: 'Chpter.co'
 cover: './chpter.png'
-index: 1
 # github: ''
 external: 'https://chpter.co/'
 tech:

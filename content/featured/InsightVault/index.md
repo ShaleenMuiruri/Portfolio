@@ -1,7 +1,6 @@
 ---
-date: '2025'
+date: '2022'
 title: 'InsightVault'
-index: 3
 # cover: ''
 github: 'https://github.com/ShaleenMuiruri/AIAskMyDocs'
 external: ''
