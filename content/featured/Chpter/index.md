@@ -1,17 +1,23 @@
 ---
 date: '2023'
-title: 'Chpter'
+title: 'Chpter.co'
 cover: './chpter.png'
+index: 1
 # github: ''
 external: 'https://chpter.co/'
 tech:
-    - React.js
-    - JavaScript
-    - Django Python
-    - Search Engine Optimization (SEO)
-    - Figma
+    - React JS
+    - Next JS
+    - Typescript
+    - Tailwind CSS
+    - AWS
+    - Postgresql
+    - Metabase
+    - Intercom
+    - Jest
+    - Cypress
+    
 showInProjects: true
 ---
 
-Chpter provides a seamless checkout process for businesses. The software enables merchants to easily showcase their products and/services, manage online sales, message customers and automate marketing all from their dashboard.
-
+Chpter has built an AI‑powered social commerce solution that helps businesses turn social media interactions into sales. It offers a unified dashboard for managing Instagram and WhatsApp interactions, supports WhatsApp checkout and SMS/WhatsApp marketing campaigns, and includes an AI assistant to handle customer engagement.

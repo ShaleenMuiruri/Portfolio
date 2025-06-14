@@ -64,12 +64,12 @@ const Footer = () => (
       </StyledSocialList>
     </StyledSocial>
     <StyledMetadata tabindex="-1">
-      <StyledGitHubLink
+      {/* <StyledGitHubLink
         href="https://github.com/bchiang7/v4"
         target="_blank"
         rel="nofollow noopener noreferrer">
         <div>Design Credits</div>
-      </StyledGitHubLink>
+      </StyledGitHubLink> */}
     </StyledMetadata>
   </StyledContainer>
 );

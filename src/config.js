@@ -43,7 +43,7 @@ module.exports = {
       external: false,
     },
     {
-      name: 'Work',
+      name: 'Projects',
       url: '/#projects',
       external: false,
     },
@@ -52,11 +52,11 @@ module.exports = {
       url: '/#contact',
       external: false,
     },
-    {
-      name: 'Blog',
-      url: 'https://medium.com/@shaleenmuiruri',
-      external: true,
-    },
+    // {
+    //   name: 'Blog',
+    //   url: 'https://medium.com/@shaleenmuiruri',
+    //   external: true,
+    // },
   ],
 
   navHeight: 100,

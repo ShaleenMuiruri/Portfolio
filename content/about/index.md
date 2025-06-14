@@ -2,40 +2,38 @@
 title: 'About Me'
 avatar: './profileimage.png'
 skills:
-    - JavaScript
-    - HTML & CSS
-    - React
-    - Angular
+    - React JS
     - Next JS
-    - Python
-    - Django
-    - ExpressJS
-    - SEO
-    - Figma
+    - Node JS
+    - Express.js
+    - TypeScript
+    - JavaScript
+    - GraphQL
+    - Redux
     - Tailwind CSS
-    - CSS
-    - Mongo DB
+    - Django-Python
+    - Styled-Components
+    - AWS
+    - Google Cloud Platform
+    - React Query
+    - Jest
+    - Cypress
+    - PostgreSQL
+    - Prisma
+    - MongoDB
+    - Docker
+    - React Native
+    - Expo
+    - Jira
+    - Figma
+    - Intercom
+    - Metabase
+    - Microservice Architecture
 
-    # - JavaScript (ES6+), Typescript
-    # - HTML & (S)CSS
-    # - React
-    # - Angular
-    # - NextJS
-    # - Python
-    # - Django
-    # - Flask
-    # - Firebase
-    # - AWS
-    # - Google Cloud Platform
-    # - Digital Ocean
-    # - ExpressJS
-    # - Metabase
 ---
 
-Hello! I'm Shaleen, a software engineer based in Nairobi, Kenya.
+I'm passionate about crafting seamless, visually engaging experiences that resonate with users. I create intuitive, interactive designs that inspire and transform complex problems into simple, elegant solutions.
 
-I'm a self-taught developer and a graduate of [Strathmore University](https://strathmore.edu/). I specialize in designing visually appealing and responsive user interfaces using Bootstrap, CSS, and Tailwind CSS.
 
-My passion lies in building digital products that provide amazing experiences for users while offering valuable solutions to the community. I strive to create impactful digital solutions that seamlessly blend design and functionality. From design to development, I create scalable applications with a focus on the end user.
+Technologies:
 
-Here are a few technologies I've been working with recently:

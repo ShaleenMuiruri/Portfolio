@@ -216,73 +216,75 @@ const Featured = ({ data }) => {
 
   return (
     <StyledContainer id="projects">
-      <Heading ref={revealTitle}>Some Things I&apos;ve Worked On</Heading>
+      <Heading ref={revealTitle}>Projects</Heading>
 
       <div>
         {featuredProjects &&
-                    featuredProjects.map(({ node }, i) => {
-                      const { frontmatter, html } = node;
-                      const { external, title, tech, github, cover } = frontmatter;
+          featuredProjects.map(({ node }, i) => {
+            const { frontmatter, html } = node;
+            const { external, title, tech, github, cover, index } = frontmatter;
+            const hasCover = cover && cover.childImageSharp && cover.childImageSharp.fluid;
 
-                      return (
-                        <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
-                          <StyledContent>
-                            <StyledLabel>Featured Project</StyledLabel>
-                            <StyledProjectName>
-                              {external ? (
-                                <a
-                                  href={external}
-                                  target="_blank"
-                                  rel="nofollow noopener noreferrer"
-                                  aria-label="External Link">
-                                  {title}
-                                </a>
-                              ) : (
-                                title
-                              )}
-                            </StyledProjectName>
-                            <StyledDescription dangerouslySetInnerHTML={{ __html: html }} />
-                            {tech && (
-                              <StyledTechList>
-                                {tech.map((tech, i) => (
-                                  <li key={i}>{tech}</li>
-                                ))}
-                              </StyledTechList>
-                            )}
-                            <StyledLinkWrapper>
-                              {github && (
-                                <a
-                                  href={github}
-                                  target="_blank"
-                                  rel="nofollow noopener noreferrer"
-                                  aria-label="GitHub Link">
-                                  <FormattedIcon name="GitHub" />
-                                </a>
-                              )}
-                              {external && (
-                                <a
-                                  href={external}
-                                  target="_blank"
-                                  rel="nofollow noopener noreferrer"
-                                  aria-label="External Link">
-                                  <FormattedIcon name="External" />
-                                </a>
-                              )}
-                            </StyledLinkWrapper>
-                          </StyledContent>
-
-                          <StyledImgContainer
-                            href={external ? external : github ? github : '#'}
-                            target="_blank"
-                            rel="nofollow noopener noreferrer">
-                            <StyledFeaturedImg
-                              fluid={cover.childImageSharp.fluid}
-                              alt={title}
-                            />
-                          </StyledImgContainer>
-                        </StyledProject>
-                      );
-                    })}
+            return (
+              <StyledProject key={index} ref={el => (revealProjects.current[i] = el)}>
+                <StyledContent style={hasCover ? {} : { gridColumn: '1 / -1', textAlign: 'left' }}>
+                  {/* <StyledLabel>Featured Project</StyledLabel> */}
+                  <StyledProjectName>
+                    {external ? (
+                      <a
+                        href={external}
+                        target="_blank"
+                        rel="nofollow noopener noreferrer"
+                        aria-label="External Link">
+                        {title}
+                      </a>
+                    ) : (
+                      title
+                    )}
+                  </StyledProjectName>
+                  <StyledDescription dangerouslySetInnerHTML={{ __html: html }} />
+                  {tech && (
+                    <StyledTechList>
+                      {tech.map((tech, i) => (
+                        <li key={i}>{tech}</li>
+                      ))}
+                    </StyledTechList>
+                  )}
+                  <StyledLinkWrapper>
+                    {github && (
+                      <a
+                        href={github}
+                        target="_blank"
+                        rel="nofollow noopener noreferrer"
+                        aria-label="GitHub Link">
+                        <FormattedIcon name="GitHub" />
+                      </a>
+                    )}
+                    {external && (
+                      <a
+                        href={external}
+                        target="_blank"
+                        rel="nofollow noopener noreferrer"
+                        aria-label="External Link">
+                        <FormattedIcon name="External" />
+                      </a>
+                    )}
+                  </StyledLinkWrapper>
+                </StyledContent>
+                {hasCover && (
+                  <StyledImgContainer
+                    href={external ? external : github ? github : '#'}
+                    target="_blank"
+                    rel="nofollow noopener noreferrer">
+                    <StyledFeaturedImg
+                      fluid={cover.childImageSharp.fluid}
+                      alt={title}
+                    />
+                  </StyledImgContainer>
+                )}
+              </StyledProject>
+            );
+          })}
       </div>
     </StyledContainer>
   );

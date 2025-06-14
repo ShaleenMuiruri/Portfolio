@@ -1,8 +1,9 @@
 ---
-date: '1'
+date: '2021'
 title: 'Netflix Clone'
 cover: './netflix-clone.png'
 github: ''
+index: 4
 external: 'https://netflix-clone-shaleen-git-main-shaleenmuiruri.vercel.app/auth'
 tech:
     - React.js
