@@ -3,7 +3,7 @@ date: '2023'
 title: 'Senior Frontend Engineer'
 company: 'Chpter.co'
 location: 'Nairobi, Kenya'
-range: 'May 2022 - Present'
+range: 'Feb 2022 - Present'
 url: 'https://chpter.co/'
 ---
 - Built and launched 30+ core user-facing features—including a unified multi-channel chat interface (Instagram & WhatsApp), seamless WhatsApp Checkout, AI Sales Assistant, and automated marketing campaigns via WhatsApp and SMS—to power Chpter’s end-to-end social commerce experience.

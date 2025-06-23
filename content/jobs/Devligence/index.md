@@ -1,9 +1,9 @@
 ---
-date: '2022'
+date: '2021'
 title: 'Software Engineer'
 company: 'Devligence'
 location: 'Nairobi, Kenya'
-range: 'Feb 2022 - Apr 2022'
+range: 'May 2021 - Jan 2022'
 ---
 
 - Worked in a team of 6 developers developing an E-meeting SaaS application using React JS, Django and GraphQL.
