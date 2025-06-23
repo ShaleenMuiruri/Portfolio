@@ -1,4 +1,4 @@
----
+<!-- ---
 date: '2020'
 title: 'Netflix Clone'
 cover: './netflix-clone.png'
@@ -9,7 +9,7 @@ tech:
     - Next JS
     - Tailwind CSS
     - Mongo DB
-showInProjects: true
+showInProjects: false
 ---
 
-A Netflix Clone Software built using React, Tailwind CSS, Next.JS, Mongo DB and Prisma. The app has also incorporated a Google Account and GitHub Account logins. 
+A Netflix Clone Software built using React, Tailwind CSS, Next.JS, Mongo DB and Prisma. The app has also incorporated a Google Account and GitHub Account logins.  -->
