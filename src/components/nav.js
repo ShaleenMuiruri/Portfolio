@@ -314,7 +314,7 @@ class Nav extends Component {
                                             }ms`,
                                         }}>
                                         <StyledResumeButton
-                                            href="https://jumpshare.com/v/GPIGo2n1sdqt9GtNugWM"
+                                            href="https://jumpshare.com/v/txxkmRgbjFkXE4UZzXJA"
                                             target="_blank"
                                             rel="nofollow noopener noreferrer">
                                             Resume
