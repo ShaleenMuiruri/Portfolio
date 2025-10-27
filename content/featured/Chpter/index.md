@@ -19,4 +19,10 @@ tech:
 showInProjects: true
 ---
 
-Chpter has built an AI‑powered social commerce solution that helps businesses turn social media interactions into sales. It offers a unified dashboard for managing Instagram and WhatsApp interactions, supports WhatsApp checkout and SMS/WhatsApp marketing campaigns, and includes an AI assistant to handle customer engagement.
+Chpter has built an AI‑powered social commerce solution that helps businesses turn social media interactions into sales. 
+
+
+Features: 
+- Unified chat interface for managing Instagram, Facebook and WhatsApp messages, 
+- Supports WhatsApp checkout and SMS/WhatsApp marketing campaigns 
+- AI assistant to handle customer engagement.

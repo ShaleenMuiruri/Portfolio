@@ -1,5 +1,5 @@
 ---
-date: '2025'
+date: '2024'
 title: 'BingeBuddy'
 cover: './binge-buddy.png'
 github: 'https://github.com/ShaleenMuiruri/binge-buddy'
