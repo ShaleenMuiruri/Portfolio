@@ -1,7 +1,7 @@
 ---
 date: '2021'
 title: 'BingeBuddy'
-# cover: './chpter.png'
+cover: './binge-buddy.png'
 github: 'https://github.com/ShaleenMuiruri/binge-buddy'
 external: 'https://binge-buddy-six.vercel.app/'
 tech:

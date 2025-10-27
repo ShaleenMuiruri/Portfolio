@@ -1,7 +1,7 @@
 ---
 date: '2021'
 title: 'BudgetWise'
-# cover: './chpter.png'
+cover: './budget-wise.png'
 github: 'https://github.com/ShaleenMuiruri/BudgetWise'
 external: 'https://budget-tracker-redux-b9h8.vercel.app/'
 tech:
