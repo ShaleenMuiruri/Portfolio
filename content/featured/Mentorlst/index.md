@@ -1,5 +1,5 @@
 ---
-date: '2024'
+date: '2023'
 title: 'Mentorlst (Open Source)'
 # cover: ''
 # github: '',

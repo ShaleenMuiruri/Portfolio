@@ -1,5 +1,5 @@
 ---
-date: '2021'
+date: '2024'
 title: 'BudgetWise'
 cover: './budget-wise.png'
 github: 'https://github.com/ShaleenMuiruri/BudgetWise'
